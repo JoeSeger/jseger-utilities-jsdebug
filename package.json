@@ -1,0 +1,13 @@
+{
+  "name": "com.jsegerdev.debug",
+  "version": "0.0.1",
+  "displayName": "JSeger Debug Utilities",
+  "description": "Debug Utilities",
+  "unity": "2022.3",
+  "author": {
+    "name": "Joseph Seger",
+    "email": "joseph@josephseger.com",
+    "url": ""
+  }
+}
+

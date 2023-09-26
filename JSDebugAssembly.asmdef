@@ -1,0 +1,18 @@
+{
+    "name": "JSDebugAssembly",
+    "rootNamespace": "JSeger.Utilities.JSdebug",
+    "references": [
+        "GUID:cc9b441658fd96840be0452ddfcc3ee1",
+        "GUID:6a059a8379e233d4f880268ee43a5a78",
+        "GUID:059454eebb397c5449e50874664d1bc2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
