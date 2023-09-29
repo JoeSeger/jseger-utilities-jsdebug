@@ -8,6 +8,37 @@
     "name": "Joseph Seger",
     "email": "joseph@josephseger.com",
     "url": ""
+  },
+
+  "scopedRegistries": [
+    {
+      "name": "com.jsegerdev.enumtools",
+      "url": "https://github.com/JoeSeger/jseger-utilities-enumtools.git",
+      "scopes": [
+        "com.jsegerdev.", "com.jsegerdev.enumtools"
+      ]
+    },
+    {
+      "name": "com.jsegerdev.colortools",
+      "url": "https://github.com/JoeSeger/jseger-utilities-colortools.git",
+      "scopes": [
+        "com.jsegerdev.", "com.jsegerdev.colortools"
+      ]
+    },
+    {
+      "name": "com.jsegerdev.stringtools",
+      "url": "https://github.com/JoeSeger/jseger-utilities-stringtools.git",
+      "scopes": [
+        "com.jsegerdev.", "com.jsegerdev.stringtools"
+      ]
+    }
+  ],
+  "dependencies":
+  {
+    
+    "com.jsegerdev.enumtools": "1.0.0",
+    "com.jsegerdev.colortools": "1.0.0",
+    "com.jsegerdev.stringtools" : "1.0.0"
   }
 }
 
