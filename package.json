@@ -2,7 +2,7 @@
   "name": "com.jsegerdev.debug",
   "version": "1.0.0",
   "displayName": "JSeger Debug Utilities",
-  "description": "Debug Utilities",
+  "description": "Debug Utilities Dependencies : \n string tools : https://github.com/JoeSeger/jseger-utilities-stringtools.git \n enumtools : https://github.com/JoeSeger/jseger-utilities-enumtools.git \n colortools : https://github.com/JoeSeger/jseger-utilities-colortools.git ",
   "unity": "2022.3",
   "author": {
     "name": "Joseph Seger",
